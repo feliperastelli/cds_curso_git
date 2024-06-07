@@ -48,6 +48,7 @@ def rd1_question_13(df):
     return None
 
 
+
 def rd1_question_14(df):
     st.text("As we can see, bikes with high kilometer have cheapier prices")
 
